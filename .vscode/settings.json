@@ -1,0 +1,38 @@
+{
+  "python.formatting.provider": "black",
+  "editor.defaultFormatter": null,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "editor.formatOnSave": true,
+  "[sql]": {
+    "editor.defaultFormatter": "cweijan.vscode-mysql-client2"
+  },
+  "cSpell.words": [
+    "Diksha",
+    "enim",
+    "gfrde",
+    "Kelkar",
+    "knownpy",
+    "Kunal",
+    "Ludbe",
+    "Mandar",
+    "Molawade"
+  ],
+  "liveServer.settings.port": 5503,
+  "html.format.indentHandlebars": true,
+  "html.format.indentInnerHtml": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "files.autoSave": "off",
+  "[scss]": {
+    "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}

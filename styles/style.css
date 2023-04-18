@@ -83,7 +83,7 @@ span.login_holder {
     animation: slider 4s linear 0.3s infinite normal;
 }
 
-@keyframes slider {
+/* @keyframes slider {
     0% {
         background-color: #0f0d36;
     }
@@ -95,7 +95,7 @@ span.login_holder {
     100% {
         background-color: #3a3254;
     }
-}
+} */
 
 /* Top Navigation Styles Start */
 nav {
