@@ -68,10 +68,10 @@ p {
     align-items: center;
 }
 
-span.login_holder {
+/* span.login_holder {
     display: flex;
     align-items: center;
-}
+} */
 
 .top-header:hover {
     animation: slider 4s linear 0.3s infinite normal;
